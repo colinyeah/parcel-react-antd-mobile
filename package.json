@@ -23,6 +23,7 @@
     "parcel-bundler": "^1.12.5",
     "postcss": "^8.3.9",
     "postcss-pxtorem": "4.0.1",
+    "postcss-pxtorem-include": "^0.0.1",
     "react-app-rewired": "^2.1.8"
   },
   "dependencies": {

@@ -5,7 +5,7 @@ class Home extends (PureComponent || Component) {
   render () {
     return (
       <div>
-        <Button onClick={() => {this.props.history.push('/detail')}}>detail</Button>
+        <Button type="primary" onClick={() => {this.props.history.push('/detail')}}>detail</Button>
       </div>
     )
   }
